@@ -1,5 +1,7 @@
 # STARTER WEB PROJECT
 
+THIS IS A GIT STASH EXERCISE
+
 # INTRODUCION BLA BLA VLA
 
 Adding a section that will add not be commited
