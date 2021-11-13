@@ -10,3 +10,6 @@ Adding a section that will add not be commited
 yes we are doing it
 
 ohh yess
+
+
+## COPYRIGHT
