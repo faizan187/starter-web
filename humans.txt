@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Faizan SIDDIQUI> -- <role> -- <twitter>
 
 # THANKS
 
